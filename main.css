@@ -1,0 +1,39 @@
+
+
+
+body{
+    font-family: 'Dancing Script', cursive;
+   
+}
+
+.all-form{
+    width: 400px;
+    height: 852px;
+    border: 2px solid rgb(29, 63, 126);
+    margin: 0 auto;
+    border-radius: 27px;
+    background-color: rgb(54, 138, 138);
+    gap: 16px;
+  
+ 
+    
+}
+
+.all-div{
+    padding: 0 30px;
+    margin: 13px;
+    margin: 30px;
+    width: 120px;
+    color:rgb(29, 63, 126) ;
+    
+  
+}
+
+.h-class{
+    text-align: center;
+   
+    
+}
+
+
+
